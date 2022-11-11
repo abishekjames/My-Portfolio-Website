@@ -3,7 +3,7 @@ This repository is about the portfolio with my resume and some of my frontend de
 
 **You can visit my portfolio website by clicking [Here](https://abishekjames.github.io/My-Portfolio-Website/)**
 
-![This is an image](https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/desktop.jpg)
+![This is an image](https://github.com/abishekjames/My-Portfolio-Website/blob/main/assets/img/desktop1.jpg)
 
 ---
 <h2>Technologies Used </h2>
